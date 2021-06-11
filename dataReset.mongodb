@@ -1,0 +1,5 @@
+
+use('CS230');
+db.users.drop();
+db.phones.drop();
+db.transactions.drop();
