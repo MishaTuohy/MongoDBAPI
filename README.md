@@ -1,5 +1,7 @@
 # API
 
+My program makes use of node.js and mongoose.
+
 This is a basic api with CRUD functionality using MongoDB Atlas cloud service as the database.
 This is for a hypothetical online phone store to support their web store for purchases.
 This is purely backend with no front end to support it.
