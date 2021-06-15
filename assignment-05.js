@@ -12,11 +12,6 @@
 //     process.exit();
 // });
 
-// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-// You can have this up and running on a http server if you wish and there is the code for it
-// You don't need to for querying the database and we are not required to develop a front end
-// So I just have it commented out, but it is just there incase!
-
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 const prompt = require("prompt");                               // imports prompt module
@@ -40,7 +35,6 @@ cliProgram();
 // And would continue to increase in number as you moved from menu to menu.
 
 // This is why the program ends after completing any task in the CLI
-// I apologise :)
 
 async function cliProgram() { 
     console.log("            -- Main menu --");
